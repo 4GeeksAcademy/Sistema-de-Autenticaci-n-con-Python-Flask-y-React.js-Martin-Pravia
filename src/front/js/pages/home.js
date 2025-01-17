@@ -8,7 +8,8 @@ export const Home = () => {
 
 	return (
 		<div className="text-center mt-5">
-			<h1>Prueba</h1>
+			<h1>Hola!</h1>
+			<h2>Por favor registrese o haga login</h2>
 			
 		</div>
 	);
